@@ -5,9 +5,10 @@ const storeDescription = {
   employees: ['Sarah', 'Daniel', 'Mike'],
   products: {
     soap: 20,
-    water: 5,
+    water: 10,
   },
   open: true,
 };
 
 console.log(storeDescription);
+console.log(storeName);
